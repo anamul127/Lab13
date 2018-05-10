@@ -1,0 +1,7 @@
+C:\Users\Grand Circus Student\source\repos\Lab13RPS\Lab13RPS\bin\Debug\Lab13RPS.exe.config
+C:\Users\Grand Circus Student\source\repos\Lab13RPS\Lab13RPS\bin\Debug\Lab13RPS.exe
+C:\Users\Grand Circus Student\source\repos\Lab13RPS\Lab13RPS\bin\Debug\Lab13RPS.pdb
+C:\Users\Grand Circus Student\source\repos\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.csprojResolveAssemblyReference.cache
+C:\Users\Grand Circus Student\source\repos\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\source\repos\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.exe
+C:\Users\Grand Circus Student\source\repos\Lab13RPS\Lab13RPS\obj\Debug\Lab13RPS.pdb
